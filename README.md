@@ -1,1 +1,0 @@
-This project is build in Django and uses PostgreSQL and Bokeh to show an interactive map of places where my ancestors lived. 
