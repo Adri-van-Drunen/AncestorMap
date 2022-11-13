@@ -1,4 +1,4 @@
-run = "bokeh serve --port=8080 --address=0.0.0.0 --allow-websocket-origin=ancestormapreplit.a3adri.repl.co,ancestry.adrivandrunen.nl --use-xheaders main.py"
+run = "bokeh serve --port=8080 --address=0.0.0.0 --allow-websocket-origin=ancestormapreplit.a3adri.repl.co --allow-websocket-origin=ancestry.adrivandrunen.nl --use-xheaders main.py"
 
 # The primary language of the repl. There can be others, though!
 language = "python3"
