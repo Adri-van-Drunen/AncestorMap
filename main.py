@@ -170,7 +170,7 @@ button2 = Button(label='► Play backwards', width=60)
 button2.on_click(animateback) 
 
 div = Div(text="""This page plots the ancestors and their places of birth for family van Drunen. <br><br>
-<i>© Adri van Drunen, 2019-2022</i><br><br><br>""")
+<i>© Adri van Drunen, 2019-2023</i><br><br><br>""")
 
 
 # Put the legend in the upper left corner
